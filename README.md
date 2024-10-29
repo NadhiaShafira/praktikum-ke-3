@@ -69,7 +69,7 @@ Jika True, variabel huruf diisi dengan "A", dan program tidak memeriksa kondisi 
 Jika akhir > 70: Huruf diisi "B". Jika akhir > 50: Huruf diisi "C". Jika akhir > 40: Huruf diisi "D".
 
 ```else```: Menangani semua kondisi lainnya (yaitu jika nilai akhir ≤ 40). Dalam kasus ini, huruf diisi dengan "E".
-
+![foto](https://github.com/NadhiaShafira/Flowchart-/blob/5fe6f8383cdf5e3221fc3c654cd29ac956461f3d/gmbr%202%20tgs%20flwchrt.jpg)
 
 # hasil kode program
 
