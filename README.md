@@ -70,4 +70,8 @@ Jika akhir > 70: Huruf diisi "B". Jika akhir > 50: Huruf diisi "C". Jika akhir >
 
 ```else```: Menangani semua kondisi lainnya (yaitu jika nilai akhir ≤ 40). Dalam kasus ini, huruf diisi dengan "E".
 
-![foto](https://github.com/NadhiaShafira/Flowchart-/blob/9a78ca04ea2b8e1637b54113af450ea7ded92882/flowchart%20nilai.jpg)
+
+# hasil kode program
+
+![foto](https://github.com/NadhiaShafira/Flowchart-/blob/b8e89896d854b872a3d46f14de775f37f29511aa/Screenshot%202024-10-28%20231944.png)
+
