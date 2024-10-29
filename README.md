@@ -46,4 +46,26 @@ jika kurang dari 3.000.000. maka akan mencetak "tidak perlu ikutan asuransi"
 ![foto](https://github.com/NadhiaShafira/Flowchart-/blob/817be615a1aa2c25fa9b75c485c3852a066181d6/gmbr%201%20tgs%20flwchrt.jpg)
 # hasil kode program
 
+![foto](https://github.com/NadhiaShafira/Flowchart-/blob/31b9b5d1e07e425a0aed69ab5fec6af14689aea2/Screenshot%202024-10-28%20232514.png)
 
+```python
+if akhir > 80:
+    huruf = "A"
+elif akhir > 70:
+    huruf = "B"
+elif akhir > 50:
+    huruf = "C"
+elif akhir > 40:
+    huruf = "D"
+else:
+    huruf = "E"
+```
+```if```: Mengecek apakah nilai akhir lebih dari 80.
+
+Jika True, variabel huruf diisi dengan "A", dan program tidak memeriksa kondisi lainnya (blok selesai di sini).
+
+```elif```: (else if) Memeriksa kondisi tambahan jika kondisi pertama (nilai akhir > 80) False.
+
+Jika akhir > 70: Huruf diisi "B". Jika akhir > 50: Huruf diisi "C". Jika akhir > 40: Huruf diisi "D".
+
+```else```: Menangani semua kondisi lainnya (yaitu jika nilai akhir ≤ 40). Dalam kasus ini, huruf diisi dengan "E".
