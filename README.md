@@ -44,5 +44,6 @@ jika kurang dari 3.000.000. maka akan mencetak "tidak perlu ikutan asuransi"
 
 ```if punya_rumah``` kalau true akan mencetak "wajib bayar pajak rumah"
 ![foto](https://github.com/NadhiaShafira/Flowchart-/blob/817be615a1aa2c25fa9b75c485c3852a066181d6/gmbr%201%20tgs%20flwchrt.jpg)
+# hasil kode program
 
 
